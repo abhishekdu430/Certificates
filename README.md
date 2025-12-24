@@ -47,4 +47,4 @@ Here you can explore my **certificates, skills, and projects**.
 ---
 
 > I am continuously learning and upskilling in **Data Analytics, SQL, Power BI, Excel, and Python**.  
-> Let’s connect and explore opportunities in data-driven decision making! 🚀
+> Let’s connect and explore opportunities in data-driven decision making! 

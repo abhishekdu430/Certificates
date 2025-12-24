@@ -8,7 +8,7 @@ Here you can explore my **certificates, skills, and projects**.
 ## 🏆 Certificates
 
 ### 1. Power BI Micro Course
-[![Power BI Certificate](powerbi-preview.jpeg)](powerbi.jpeg)
+[![Power BI Certificate](powerbi.jpeg)](powerbi.jpeg)
 
 **Issued By:** [Skill Course](https://www.skillcourse.in)  
 **Date:** 19/12/2025  
@@ -17,6 +17,7 @@ Here you can explore my **certificates, skills, and projects**.
 [![SQL Certificate](mysql.jpeg)](mysql.jpeg)
 
 **Issued By:** [Skill Course](https://www.skillcourse.in) 
+
 **Date:** 29/08/2025  
 
 > Hover over the certificates for a zoom effect. Click to view full size.

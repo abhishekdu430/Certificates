@@ -14,9 +14,7 @@ Here you can explore my **certificates, skills, and projects**.
 **Date:** 19/12/2025  
 
 ### 2. 30-Days SQL Micro Course
-<a href="19fd56c7-6f22-4717-bceb-d9c5a3f230ff.jpeg">
-<img src="19fd56c7-6f22-4717-bceb-d9c5a3f230ff.jpeg" width="400" alt="SQL Certificate" title="Click to view full-size" style="transition: transform 0.3s;"/>
-</a>
+[![SQL Certificate](mysql.jpeg)](mysql.jpeg)
 
 **Issued By:** [Skill Course](https://www.skillcourse.in) 
 **Date:** 29/08/2025  
